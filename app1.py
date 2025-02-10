@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pickle
-import seaborn as sns
+# import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import ConfusionMatrixDisplay
 from sklearn.linear_model import LogisticRegression
